@@ -14,7 +14,7 @@ The minimum requirement by EtherScan API is that your Web server supports PHP 5.
 
 Installation
 ------------
-To install EtherScan API package you can use simple `composer.json`...
+To install EtherScan API package you can use a simple `composer.json`...
 
 ```javascript
 {
